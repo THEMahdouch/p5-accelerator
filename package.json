@@ -13,7 +13,10 @@
     "url": "git+ssh://git@github.com/THEMahdouch/p5-accelerator.git"
   },
   "keywords": [
-    "p5.js", "accelerator", "js", "p5"
+    "p5.js",
+    "accelerator",
+    "js",
+    "p5"
   ],
   "author": "THEMahdouch",
   "license": "MIT",
@@ -22,12 +25,12 @@
   },
   "homepage": "https://github.com/THEMahdouch/p5-accelerator#readme",
   "dependencies": {
-    "browserify": "^16.5.1",
-    "eslint": "^6.8.0",
-    "p5": "^1.0.0",
-    "watchify": "^3.11.1"
+    "browserify": "^17.0.0",
+    "p5": "^1.8.0"
   },
   "devDependencies": {
+    "watchify": "^4.0.0",
+    "eslint": "^8.52.0",
     "esmify": "^2.1.1"
   }
 }
